@@ -55,7 +55,7 @@ function item:onWorldUse()
 end
 
 function item:getBromideSprite()
-    if Kristal.getLibConfig("NewChapterKeyItems", "petalFeatherAltDescription") then
+    if Kristal.getLibConfig("NewChapterKeyItems", "bromideFAltSprite") then
         return "misc/bromide_f_alt"
     end
     return "misc/bromide_f"
