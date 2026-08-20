@@ -3,7 +3,10 @@
     "authors": [
         "NelleMonelle"
     ],
-    "version": "v1.0.0",
-    "engineVer": "v0.10.0-dev",
-    "config": {}
+    "version": "v1.1.0",
+    "engineVer": "v0.11.0-dev",
+    "config": {
+        "petalFeatherAltDescription": false,
+        "bromideFAltSprite": false
+    }
 }
